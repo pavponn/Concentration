@@ -1,3 +1,3 @@
 # Concentration
-Concentration game for iOS devices written on Swift.
-Not finished. Demo from Stanford CS193
+Concentration game for iOS devices written in Swift.
+Prototype. Demo from Stanford CS193
